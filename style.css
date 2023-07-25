@@ -28,3 +28,12 @@ form {
     max-width: 100%;
     width: 400px;
 }
+
+.input {
+    border: none;
+    color: #444;
+    font-size: 2rem;
+    padding: 1rem 2rem;
+    display: block;
+    width: 100%;
+}
