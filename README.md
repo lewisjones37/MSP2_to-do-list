@@ -148,3 +148,14 @@ These returning visitor goals reinforce the positive experience and benefits tha
 
 -did you use font generatr for contrasting/similar styles?
 
+### Structure 
+
+- Home Page:
+The home page serves as the entry point to your 2Day 2Morrow 2Do application. It provides users with a brief introduction to the purpose and features of the to-do list. The main element on this page is a prominent and inviting button that prompts users to access the to-do list functionality.
+
+Logo and Title: Display the "2Day 2Morrow 2Do" logo along with the application's name at the #######top of the home page. This helps users quickly identify the application.
+
+Brief Description: Provide a concise and compelling description of the to-do list application, outlining its benefits and how it can help users manage their tasks effectively.
+
+Get Started Button: Feature a clear and eye-catching button with a label such as ####"Get Started" or ####"Start Organizing." When users click this button, they will be directed to the main to-do list interface.
+
