@@ -70,5 +70,21 @@ General Organization Enthusiasts: Anyone who enjoys staying organized and produc
 
 - As a user, I want to have a clear and user-friendly interface for easy task management.
 
+### Client Goals
 
+- Efficient Task Management: The client's primary goal is to provide users with an efficient and user-friendly tool to manage their tasks effectively, helping them stay organized and focused amidst demanding work or social schedules.
+
+- Seamless Task Addition: The client aims to enable users to effortlessly add new tasks to the to-do list through a text area or input field, ensuring a smooth and intuitive task entry process.
+
+- Real-Time Updates: The client seeks to create a dynamic to-do list that updates in real-time, reflecting the tasks added or completed by the user instantly without requiring page refreshes.
+
+- Intuitive Task Completion: The client desires a feature where users can mark tasks as completed with a simple left-click, allowing them to easily track their progress and distinguish between completed and pending tasks.
+
+- Effortless Task Deletion: The client wants to provide users with the ability to delete tasks from the list conveniently, ideally through a right-click or similarly intuitive method.
+
+- Persistent Data Storage: The client's goal is to implement local storage functionality to ensure that the to-do list's tasks are automatically saved, allowing users to access their tasks even after closing the browser or refreshing the page.
+
+- User-Friendly Interface: The client aims to deliver a clear and user-friendly interface, making it easy for users to interact with the to-do list application and manage their tasks efficiently.
+
+- Visual Appeal: The client seeks to incorporate a watermark-styled logo or visual elements that add to the application's overall aesthetic appeal, enhancing the user experience.
 
