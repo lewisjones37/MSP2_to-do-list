@@ -188,6 +188,11 @@ Visual Cues for Actions: Provide visual cues or animations to indicate task comp
 
 Consistent Styling: Maintain consistent styling throughout the application, using colors, typography, and spacing that align with the application's visual identity.
 
-#### Hero Image 
+#### Imagery
+
 - 
+
+#### Wireframes
+
+
 
