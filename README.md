@@ -161,6 +161,7 @@ Brief Description: Provide a concise and compelling description of the to-do lis
 Get Started Button: Feature a clear and eye-catching button with a label such as ####"Get Started" or ####"Start Organizing." When users click this button, they will be directed to the main to-do list interface.
 
 - To-Do List Interface:
+
 Upon clicking the #######"Get Started" button on the home page, users will be taken to the main to-do list interface, where they can begin managing their tasks efficiently.
 
 Task Input Area: At the top of the interface, include a text area or input field where users can enter their tasks. They can type in the task description and press the "Enter" key or click an "Add" button to add the task to the list.
