@@ -88,3 +88,46 @@ General Organization Enthusiasts: Anyone who enjoys staying organized and produc
 
 - Visual Appeal: The client seeks to incorporate a watermark-styled logo or visual elements that add to the application's overall aesthetic appeal, enhancing the user experience.
 
+#### First Time Visitor Goals
+
+These first-time visitor goals aim to highlight the key features and benefits that new users can expect when using "2Day 2Morrow 2Do". They are designed to give newcomers a quick understanding of what makes your project valuable and why they should consider using it to organise their tasks and projects effectively.
+
+- Effortless Task Entry: Quickly add your tasks using the provided text area, so you can get organized without any hassle.
+
+- Real-Time Updates: See your to-do list update in real-time as you add or complete tasks, ensuring you always have an up-to-date view of your tasks.
+
+- Simple Task Completion: Easily mark tasks as completed with a simple left-click, allowing you to track your progress and stay on top of your to-dos.
+
+- Seamless Task Deletion: Delete completed or unnecessary tasks with a right-click, making task management a breeze.
+
+- Never Lose Your Tasks: Rest assured knowing that your to-do list is automatically saved to your local storage, so your tasks will be there even if you close the browser or refresh the page.
+
+- Stay Organized Anywhere: Access your to-do list from any device with an internet connection, keeping your tasks at your fingertips whether you're at work, home, or on the go.
+
+- Visually Appealing Interface: Enjoy a visually appealing design with a watermark-styled logo, enhancing your experience while managing your tasks.
+
+- User-Friendly and Intuitive: Navigate the application effortlessly with its user-friendly interface, ensuring a smooth and enjoyable task management experience from the moment you start.
+
+#### Returning Visitor Goals
+
+These returning visitor goals reinforce the positive experience and benefits that users can continue to enjoy when using the application. They encourage users to stay engaged, explore new features, and make the most of the tool to enhance their productivity.
+
+- Efficient Task Management: Continue to experience the convenience of efficient task management, enabling you to stay organized and focused in your busy work or social life.
+
+- Seamless Task Updates: Enjoy the seamless updates to your to-do list as you add or complete tasks, ensuring your task list is always up-to-date and reflects your progress.
+
+- Streamlined Task Completion: Effortlessly mark tasks as completed with a simple left-click, making it easy to keep track of your accomplishments and outstanding tasks.
+
+- Swift Task Deletion: Continue to remove completed or unnecessary tasks with a right-click, maintaining a clutter-free and organized task list.
+
+- Persistent Task Storage: Rest assured that your to-do list remains intact, thanks to automatic local storage, allowing you to access your tasks whenever you return to the application.
+
+- Accessible Anywhere, Anytime: Access your to-do list on any device with internet access, ensuring you can manage your tasks conveniently, no matter where you are.
+
+- Consistently Pleasant Interface: Enjoy the visually appealing design and watermark-styled logo, providing a consistent and pleasant experience as you manage your tasks.
+
+- Familiar User Experience: Continue to navigate the application effortlessly with its user-friendly interface, making task management an enjoyable and familiar process.
+
+- Discover New Features: Explore any new features or updates that may have been added since your last visit, enhancing your task management experience further.
+
+- Share and Spread the Productivity: Consider sharing "2Day 2Morrow 2Do" with friends, family, or colleagues, so they can also benefit from efficient task organization.
