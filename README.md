@@ -52,3 +52,23 @@ General Organization Enthusiasts: Anyone who enjoys staying organized and produc
 
 2Day 2Morrow 2Do aims to provide a user-friendly and accessible solution for individuals with diverse lifestyles and busy schedules. Whether it's managing work-related tasks, academic commitments, personal projects, or social engagements, this to-do list offers an effective way to stay on top of various responsibilities without the worry of tasks disappearing, thanks to the local storage feature.
 
+### User Stories
+
+- As a user, I want to enter task items in a text area so that I can add new tasks to my to-do list.
+
+- As a user, I want the to-do list to dynamically update with the newly added tasks so that I can see my tasks in real-time.
+
+- As a user, I want a watermark-styled logo behind the list for an aesthetically pleasing design.
+
+- As a user, I want to mark tasks as completed by left-clicking on them so that I can keep track of my progress and completed tasks.
+
+- As a user, I want to delete tasks from the list by right-clicking on them so that I can remove completed or unnecessary tasks.
+
+- As a user, I want the to-do list to be saved to local storage so that my tasks persist even after closing the browser.
+
+- As a user, I want the ability to toggle between completed and active tasks for better task management.
+
+- As a user, I want to have a clear and user-friendly interface for easy task management.
+
+
+
