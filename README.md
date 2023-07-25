@@ -131,3 +131,20 @@ These returning visitor goals reinforce the positive experience and benefits tha
 - Discover New Features: Explore any new features or updates that may have been added since your last visit, enhancing your task management experience further.
 
 - Share and Spread the Productivity: Consider sharing "2Day 2Morrow 2Do" with friends, family, or colleagues, so they can also benefit from efficient task organization.
+
+
+## Design
+- The website is a multiple page design and seperates all key information into seperate pages. The aesthetics of the Website are minimalistic, It utilises a hero image on the home page and gives the Website a welcoming feeling. The website uses simple forms to make the user experience as starightforward as possible.
+
+### Colour Scheme
+
+- I chose a blue color scheme for this gym website as requested by the Gym as it matches the company logo and the general theme inside the actual gym. I also beleives it conveys a sense of trust, reliability, and calmness. Blue is often associated with stability and dependability, which are important qualities for a gym to convey to potential customers. Using different shades of blue adds depth and variety to the color palette, while still maintaining a cohesive look. The light background, mostly white, creates a clean and airy feel that is both visually appealing and easy to read. Overall, this color scheme helps create a sense of professionalism and competence, which can encourage potential customers to trust the gym and take action towards their fitness goals.
+
+### Fonts
+
+- Image of fonts here 
+
+-Why you chose it/them
+
+-did you use font generatr for contrasting/similar styles?
+
