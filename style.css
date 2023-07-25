@@ -55,6 +55,10 @@ form {
     color: #d5d5d5;
 }
 
+.input:focus {
+    outline-color:  rgb(50, 190, 240);
+}
+
 .todos {
     background-color: #fff;
     margin: 0;
@@ -67,4 +71,9 @@ form {
     font-size: 1.5rem;
     padding: 1rem 2rem;
     cursor: pointer;
+}
+
+.todos li.completed {
+    color: #b6b6b6;
+    text-decoration: line-through;
 }
