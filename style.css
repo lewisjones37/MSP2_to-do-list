@@ -54,6 +54,11 @@ form {
     font-family: 'Montserrat Alternates', sans-serif;
 }
 
+.fixed.input {
+    position: sticky;
+    top: 10%;
+}
+
 .input::placeholder {
     color: #d5d5d5;
 }
