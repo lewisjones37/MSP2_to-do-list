@@ -73,15 +73,6 @@ todosUL.addEventListener('touchend', (e) => {
   updateLS()
 });
 
-
-
-
-
-
-
-
-
-
 function updateLS() {
     todosEl = document.querySelectorAll('li')
 
