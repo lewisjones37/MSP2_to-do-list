@@ -49,6 +49,39 @@ function addTodo(todo) {
     }
 }
 
+// JavaScript for Swipe-to-Delete Functionality
+
+let touchStartX = null;
+
+// Event Listener for Touch Start
+todosUL.addEventListener('touchstart', (e) => {
+  touchStartX = e.touches[0].clientX;
+});
+
+// Event Listener for Touch End
+todosUL.addEventListener('touchend', (e) => {
+  const touchEndX = e.changedTouches[0].clientX;
+  const swipeDistance = touchEndX - touchStartX;
+  const swipeThreshold = 50; // Adjust the threshold as needed
+
+  if (Math.abs(swipeDistance) > swipeThreshold) {
+    // Swipe Detected - Delete the task
+    const taskToDelete = e.target;
+    taskToDelete.parentNode.removeChild(taskToDelete);
+  }
+
+  updateLS()
+});
+
+
+
+
+
+
+
+
+
+
 function updateLS() {
     todosEl = document.querySelectorAll('li')
 
