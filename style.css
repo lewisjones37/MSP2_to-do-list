@@ -55,6 +55,8 @@ form {
     display: block;
     width: 100%;
     font-family: 'Montserrat Alternates', sans-serif;
+    border: 1px solid rgb(50, 190, 240);
+    z-index: +1;
 }
 
 .fixed.input {
@@ -72,6 +74,7 @@ form {
 
 .todos {
     background-color: #fff;
+    opacity: 0.8;
     margin: 0;
     padding: 0;
     list-style-type: none;
