@@ -35,15 +35,16 @@ h1 {
 
 button {
     position: relative;
-    background-color: purple;
+    background-color: rgb(18, 140, 184);
     color: #fff;
-    border: 1px purple solid;
+    border: hidden;
     font-size: 14px;
     text-transform: capitalize;
     letter-spacing: 2px;
     padding: 20px 30px;
     overflow: hidden;
     margin: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5)
 }
 
 button:focus {
