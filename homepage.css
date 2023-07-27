@@ -33,3 +33,10 @@ h1 {
   
 }
 
+button {
+    font-family: inherit;
+    width: auto;
+    height: 30px;
+    
+}
+
