@@ -33,12 +33,15 @@ h1 {
   
 }
 
-button {
+a {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 300;
+    text-decoration: none;
     position: relative;
     background-color: rgb(18, 140, 184);
     color: #fff;
     border: hidden;
-    font-size: 14px;
+    font-size: 20px;
     text-transform: capitalize;
     letter-spacing: 2px;
     padding: 20px 30px;
@@ -47,11 +50,11 @@ button {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5)
 }
 
-button:focus {
+a:focus {
     outline: none;
 }
 
-button .circle {
+a .circle {
     position: absolute;
     background-color: #fff;
     width: 100px;
