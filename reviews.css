@@ -47,7 +47,32 @@ body {
     text-align: justify;
 }
 
+.user {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+.user .user-image {
+    border-radius: 50%;
+    height: 75px;
+    width: 75px;
+    object-fit: cover;
+}
+
+.user .user-details {
+    margin-left: 10px;
+
+}
+
+.user .role {
+    font-weight: normal;
+    margin: 10px 0;
+}
+
+.user .username {
+    margin: 0;
+}
 
 @media(max-width: 768px) {
     .testimonial-container {
