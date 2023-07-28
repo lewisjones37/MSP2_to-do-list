@@ -119,3 +119,13 @@ form {
     text-decoration: line-through;
     text-decoration-color:  rgb(50, 190, 240);
 }
+
+p {
+    color: #afafaf;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin-top: 50px;
+}
+
+
