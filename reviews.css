@@ -42,6 +42,13 @@ body {
     right: 40px;
 }
 
+.testimonial {
+    line-height: 28px;
+    text-align: justify;
+}
+
+
+
 @media(max-width: 768px) {
     .testimonial-container {
         padding: 20px 30px;
