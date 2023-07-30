@@ -64,6 +64,13 @@ a .circle {
     animation: scale .5s ease-out;
 }
 
+.footer {
+    position: absolute;
+    color: black;
+    bottom: 10px;
+    
+}
+
 @keyframes scale {
     to {
         transform: translate(-50%, -50%) scale(3);
