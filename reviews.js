@@ -8,7 +8,7 @@ const testimonials = [
     {
         name:'Iestyn Jones',
         position: 'Athlete',
-        photo:'',
+        photo:'assets/images/iest-home.jpg',
         text: "Efficient, intuitive, and organized. My go-to for staying productive!",
     },
     {
