@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap');
 
-*{
+* {
     box-sizing: border-box;
 }
 
@@ -15,4 +15,25 @@ body {
     overflow: hidden;
     margin: 0;
     padding: 10px;
+}
+
+.testimonial-container {
+    background-color: #476ce4;
+    color: #fff;
+    border-radius: 15px;
+    margin: 20px auto;
+    padding: 50px 80px;
+    max-width: 768px;
+    position: relative;
+}
+
+.fa-quote {
+    color: rgba(255,255,255,0.3);
+    font-size: 28px;
+    position: absolute;
+    top: 70px;
+}
+
+.fa-quote-right {
+    left: 40px;
 }
