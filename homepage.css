@@ -71,6 +71,17 @@ a .circle {
     
 }
 
+@media(max-width:768px) {
+    .footer {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 25px;
+        font-size: 10px;
+        text-align: center;
+    }
+}
+
 @keyframes scale {
     to {
         transform: translate(-50%, -50%) scale(3);
