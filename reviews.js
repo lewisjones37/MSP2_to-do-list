@@ -14,12 +14,13 @@ const testimonials = [
     {
         name:'Emily Edwards',
         position: 'HR',
-        photo:'',
+        photo:'assets/images/emily.jpg',
         text: "User-friendly interface, excellent features. Simplifies my tasks effortlessly.",
     },
     {
         name:'Ioan Jones',
         position: 'Production Manager',
+        photo: 'assets/images/ioan.jpg',
         text: "Seamless experience, responsive design. A must-have for task management efficiency.",
     },
 ]
