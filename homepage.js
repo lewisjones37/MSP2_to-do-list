@@ -1,8 +1,8 @@
 const textEl = document.getElementById('text')
-const text = '2DAY 2MORROW 2DO!'
+const text = 'Emilys todos'
 const buttons = document.querySelectorAll('.ripple')
 let idx = 1
-let speed = 180
+let speed = 250
 
 writeText()
 
