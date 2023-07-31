@@ -224,11 +224,21 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 
 ## Technologies Used
 
-### Lanuages 
+### Languages
 
 - HTML
 - CSS
 - Javascript
+
+### Framework and Tools
+
+- Fontjoy 
+- Google Fonts 
+- Font Awesome
+- Pexels 
+- GitHub 
+- Gitpod 
+- W3Schools 
 
 
 
