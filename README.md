@@ -28,11 +28,11 @@
 
 ### Description
 
-2day 2omorrow 2do is a page that allows users to create and manage a list of tasks and projects. The main goal of this project is to provide users with an easy way to keep track of their tasks and projects, with the added functionalies of marking as done and deleting tasks when completed. And peice of mind the items will remain after the browser is refreshed.
+Emilys 2dos is a page that allows users to create and manage a list of tasks and projects. The main goal of this project is to provide users with an easy way to keep track of their tasks and projects, with the added functionalies of marking as done and deleting tasks when completed. And peice of mind the items will remain after the browser is refreshed.
 
 ### Target Audience 
 
-2Day 2Morrow 2Do is designed to cater to individuals facing the challenges of managing a demanding work or social life, where multiple tasks and projects need to be organized and tracked efficiently. The target audience includes, but is not limited to:
+Emilys 2Do's is designed to cater to individuals facing the challenges of managing a demanding work or social life, where multiple tasks and projects need to be organized and tracked efficiently. The target audience includes, but is not limited to:
 
 Professionals: Busy professionals who juggle various responsibilities, deadlines, and projects in their work environment. This to-do list can serve as a valuable tool to keep track of their daily tasks, assignments, and meetings.
 
@@ -42,7 +42,7 @@ Freelancers and Entrepreneurs: Freelancers and entrepreneurs often manage multip
 
 Parents and Caregivers: Parents and caregivers with busy household schedules, appointments, and childcare responsibilities can use this tool to keep their tasks and commitments in order.
 
-Socially Engaged Individuals: People involved in various social activities, community events, and volunteering tasks can utilize this to-do list to manage their commitments and never miss an important event.
+Socially Engaged Individuals: People involved in various social activities, community events, and volunteering tasks can utilise this to-do list to manage their commitments and never miss an important event.
 
 Creatives and Artists: Writers, designers, artists, and other creative professionals can use this to-do list to organize their creative projects and track their progress.
 
@@ -50,7 +50,7 @@ Travelers and Event Planners: Individuals planning trips or organizing events ca
 
 General Organization Enthusiasts: Anyone who enjoys staying organized and productive can find value in using this to-do list to manage their daily activities.
 
-2Day 2Morrow 2Do aims to provide a user-friendly and accessible solution for individuals with diverse lifestyles and busy schedules. Whether it's managing work-related tasks, academic commitments, personal projects, or social engagements, this to-do list offers an effective way to stay on top of various responsibilities without the worry of tasks disappearing, thanks to the local storage feature.
+Emily's 2Do's aims to provide a user-friendly and accessible solution for individuals with diverse lifestyles and busy schedules. Whether it's managing work-related tasks, academic commitments, personal projects, or social engagements, this to-do list offers an effective way to stay on top of various responsibilities without the worry of tasks disappearing, thanks to the local storage feature.
 
 ### User Stories
 
@@ -69,6 +69,10 @@ General Organization Enthusiasts: Anyone who enjoys staying organized and produc
 - As a user, I want the ability to toggle between completed and active tasks for better task management.
 
 - As a user, I want to have a clear and user-friendly interface for easy task management.
+
+- As a User, I want to read others' reviews: Users wish to read reviews from other individuals who have used Emily's 2do's to understand how it has benefitted them and whether it meets their task management needs. They want to make informed decisions about using the app based on real user experiences.
+
+- Building Trust and Credibility: By showcasing positive user reviews and testimonials, Emily's 2do's aims to build trust and credibility among potential new users. Positive reviews can act as social proof, assuring users that the app is reliable, user-friendly, and effective in helping them manage their tasks efficiently.
 
 ### Client Goals
 
@@ -107,6 +111,10 @@ These first-time visitor goals aim to highlight the key features and benefits th
 - Visually Appealing Interface: Enjoy a visually appealing design with a watermark-styled logo, enhancing your experience while managing your tasks.
 
 - User-Friendly and Intuitive: Navigate the application effortlessly with its user-friendly interface, ensuring a smooth and enjoyable task management experience from the moment you start.
+
+- Discovering User Satisfaction: As a first-time visitor to Emily's 2do's, users want to explore the reviews section to discover the experiences of other users. They aim to assess the overall user satisfaction with the to-do list application and gauge its effectiveness in helping manage tasks and projects efficiently.
+
+- Validating App Reliability: First-time visitors seek reassurance about the reliability and credibility of Emily's 2do's. They expect to find genuine user reviews and testimonials that demonstrate the app's utility, ease of use, and positive impact on task organization. By reading reviews, they can feel more confident in trying out the application themselves.
 
 #### Returning Visitor Goals
 
