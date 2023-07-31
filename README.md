@@ -266,5 +266,9 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY).
 7. Press Enter to create your local clone.
 
+## Testing
+
+- ADD TESTING STUFF HERE FOR ALL DEVICES
+
 
 
