@@ -150,7 +150,7 @@ The to-do list interface exudes simplicity, with a soothing color scheme and int
 
 ### Colour Scheme
 
-- 
+- The color scheme for "Emily's 2do's" website is designed to create a calm and inviting atmosphere. The main background color is a soothing sky blue, complemented by clean white text for clarity. Subtle shades of soft grey add an elegant touch to the interface. Vibrant teal highlights are used for interactive elements, encouraging user engagement. This carefully curated color palette enhances the user experience, promoting focus and productivity. The combination of colors creates a visually appealing and user-friendly interface, making task management a seamless and enjoyable process. With its thoughtful design, Emily's 2do's provides a professional and efficient platform for organizing tasks and projects effectively.
 
 ### Fonts
 
