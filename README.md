@@ -156,9 +156,9 @@ The to-do list interface exudes simplicity, with a soothing color scheme and int
 
 - Image of fonts here 
 
--Why you chose it/them
+- I chose the Montserrat Alternates font for "Emily's 2do's" website because of its modern and approachable style. Unlike formal fonts, Montserrat Alternates strikes a balance between professionalism and a friendly vibe, contributing to a positive user experience. Its clean and legible appearance ensures easy readability across different devices and screen sizes. By using this font, I aim to create a user-friendly interface that feels welcoming and engaging. The modern aesthetics of Montserrat Alternates align with the website's minimalist design, promoting a sense of simplicity and focus, making task management a seamless and enjoyable experience for users.
 
--did you use font generatr for contrasting/similar styles?
+- I used fontjoy.com to aid in font selection for "Emily's 2do's" as it offers a user-friendly platform with an extensive range of font options. The site's interactive features allowed me to experiment and find the perfect font that aligns with the website's modern and approachable style, enhancing the overall user experience.
 
 ### Structure 
 
