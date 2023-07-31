@@ -208,7 +208,7 @@ The reviews will automatically update.
 
 A home button is provided identical to the todo list interface to maintain style.
 
-#### Imagery
+### Imagery
 
 #### Review Profile Images
 
@@ -216,7 +216,7 @@ The only images used in the whole project are profile images of the reviewers to
 
 These images are thimbnail size with a round border that compliment the small size of the review plate. 
 
-#### Wireframes
+### Wireframes
 
 ### Future Implementations
 
