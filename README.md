@@ -218,5 +218,9 @@ These images are thimbnail size with a round border that compliment the small si
 
 #### Wireframes
 
+### Future Implementations
+
+In future updates, I intend to incorporate a categories feature in "Emily's 2do's" to enhance task organisation. This addition will enable users to group their to-do items based on different project types, work, personal tasks, or any customised categories they prefer. By introducing categories, users can streamline their task management process, improving efficiency and clarity. This future implementation aims to provide a more comprehensive and customisable experience, empowering users to stay organised and focused on their priorities effectively.
+
 
 
