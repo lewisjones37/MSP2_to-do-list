@@ -198,9 +198,23 @@ Visual Cues for Actions: Provide visual cues or animations to indicate task comp
 
 Consistent Styling: Maintain consistent styling throughout the application, using colors, typography, and spacing that align with the application's visual identity.
 
+- Review page:
+
+On the home page below the "Get started button is also a "Reviews" button.
+
+This page displays a seemless design where past users reviews will stay on the page for 10 seconds with a time gauge to tell the user when it will dissapear. 
+
+The reviews will automatically update.
+
+A home button is provided identical to the todo list interface to maintain style.
+
 #### Imagery
 
-- 
+#### Review Profile Images
+
+The only images used in the whole project are profile images of the reviewers to give the app a personal and dependable feel. 
+
+These images are thimbnail size with a round border that compliment the small size of the review plate. 
 
 #### Wireframes
 
