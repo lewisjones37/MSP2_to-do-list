@@ -142,11 +142,15 @@ These returning visitor goals reinforce the positive experience and benefits tha
 
 
 ## Design
-- 
+- The design of the website for "Emily's 2do's" follows a minimalist approach, prioritising user focus and ease of navigation. The multi-page layout comprises a homepage, a review page, and a streamlined to-do list interface. The clean and uncluttered design places emphasis on the main elements, creating a visually soothing experience.
+
+The homepage greets visitors with the page's name and a concise call to action, guiding them seamlessly to explore the app's features. The review page showcases genuine user feedback, reinforcing the app's reliability and building trust among potential users.
+
+The to-do list interface exudes simplicity, with a soothing color scheme and intuitive layout. Three simple instructions enable users to effortlessly manage their tasks. The minimalist style reduces distractions, allowing users to focus solely on their to-do list and tasks at hand.
 
 ### Colour Scheme
 
--
+- 
 
 ### Fonts
 
