@@ -72,7 +72,6 @@ Emily's 2Do's aims to provide a user-friendly and accessible solution for indivi
 
 - As a User, I want to read others' reviews: Users wish to read reviews from other individuals who have used Emily's 2do's to understand how it has benefitted them and whether it meets their task management needs. They want to make informed decisions about using the app based on real user experiences.
 
-- Building Trust and Credibility: By showcasing positive user reviews and testimonials, Emily's 2do's aims to build trust and credibility among potential new users. Positive reviews can act as social proof, assuring users that the app is reliable, user-friendly, and effective in helping them manage their tasks efficiently.
 
 ### Client Goals
 
@@ -321,6 +320,21 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 - Timed Carousel Review Section: The review section with a timed bar consisting of 10 seconds has been tested. The reviews should automatically carousel to the next review after the specified time interval.
 
 - The home button provided on the todo and review page has been tested to ensure when clicked it takes user back to the homepage.
+
+#### User Stories Testing 
+
+| User Story | Testing |
+|------------|------------|
+| As a user, I want to enter task items in a text area so that I can add new tasks to my to-do list. | User can type task items in the text area and verify that they appear in the to-do list. |
+| As a user, I want the to-do list to dynamically update with the newly added tasks so that I can see my tasks in real-time. | User can add tasks, and the to-do list updates automatically without requiring a page refresh. |
+| As a user, I want a watermark-styled logo behind the list for an aesthetically pleasing design. | User can see a watermark-styled logo positioned behind the to-do list. |
+| As a user, I want to mark tasks as completed by left-clicking on them so that I can keep track of my progress and completed tasks. | User can left-click on a task, and it gets marked as completed with a strikethrough or a visual cue. |
+| As a user, I want to delete tasks from the list by right-clicking on them so that I can remove completed or unnecessary tasks. | User can right-click on a task, and it gets removed from the list. |
+| As a user, I want the to-do list to be saved to local storage so that my tasks persist even after closing the browser. | User can add tasks, close the browser, reopen it, and verify that the to-do list retains the added tasks. |
+| As a user, I want the ability to toggle between completed and active tasks for better task management. | User can use a toggle button to switch between viewing all tasks, completed tasks, and active tasks. |
+| As a user, I want to have a clear and user-friendly interface for easy task management. | User can navigate the interface smoothly, and the design is intuitive for task management. |
+| As a User, I want to read others' reviews | User can access the review section and read reviews from other users about Emily's 2do's. The review section is clearly visible and accessible. |
+
 
 
 
