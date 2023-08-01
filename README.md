@@ -281,6 +281,13 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 <img src="docs/responsiveness/iphone5/reviews.jpg">
 </details>
 
+<details><summary>iPhone 12 Pro</summary>
+<img src="docs/responsiveness/iphone-12-pro/homepage-iphone-12-pro.jpg">
+<img src="docs/responsiveness/iphone-12-pro/to-do-list-iphone-12-pro.jpg">
+<img src="docs/responsiveness/iphone-12-pro/iphone-12-pro-w-list.jpg">
+<img src="docs/responsiveness/iphone-12-pro/reviews-iphone-12-pro.jpg">
+</details>
+
 <details><summary>iPad Air</summary>
 <img src="docs/responsiveness/ipad-air/homepage-ipad-air.jpg">
 <img src="docs/responsiveness/ipad-air/todo-list-ipad-air.jpg">
@@ -294,6 +301,8 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 <img src="docs/responsiveness/desktop/todo-list-w-list-desktop.jpg">
 <img src="docs/responsiveness/desktop/reviews-desktop.jpg">
 </details>
+
+
 
 
 
