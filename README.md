@@ -359,7 +359,13 @@ As of the testing date, there are no known major issues with the listed browsers
 
 Compatibility testing was performed by manually verifying the project's functionality on the listed browsers and comparing the results against the expected behavior.
 
-#### Ligthouse Testing
+#### Bugs 
+
+- Add bug info here
+
+#### Performance 
+
+The performance of each page was measured by using Google lighthouse in chrome developer tools.
 
 <details><summary>Homepage</summary>
 <img src="docs/responsiveness/lighthouse/homepage-lighthouse.png">
