@@ -268,17 +268,24 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 
 ## Testing
 
-- Responsiveness 
+### Responsiveness 
 
-The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, tablet and mobile devices.
+The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, tablet and mobile devices. Please see below examples of various devices.
 
 ### Devices 
 
 <details><summary>iPhone 5</summary>
-<img src="/docs/responsiveness/iphone5/Homepage.jpg">
-<img src="/docs/responsiveness/iphone5/2do-interface.jpg">
-<img src="/docs/responsiveness/iphone5/2do-interface-w-list.jpg">
-<img src="/docs/responsiveness/iphone5/reviews.jpg">
+<img src="docs/responsiveness/iphone5/Homepage.jpg">
+<img src="docs/responsiveness/iphone5/2do-interface.jpg">
+<img src="docs/responsiveness/iphone5/2do-interface-w-list.jpg">
+<img src="docs/responsiveness/iphone5/reviews.jpg">
+</details>
+
+<details><summary>iPad Air</summary>
+<img src="docs/responsiveness/ipad-air/homepage-ipad-air.jpg">
+<img src="docs/responsiveness/ipad-air/todo-list-ipad-air.jpg">
+<img src="docs/responsiveness/ipad-air/todo-list-w-list-ipad-air.jpg">
+<img src="docs/responsiveness/ipad-air/reviews-ipad-air.jpg">
 </details>
 
 
