@@ -335,6 +335,31 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 | As a user, I want to have a clear and user-friendly interface for easy task management. | User can navigate the interface smoothly, and the design is intuitive for task management. |
 | As a User, I want to read others' reviews | User can access the review section and read reviews from other users about Emily's 2do's. The review section is clearly visible and accessible. |
 
+#### Browser Compatibility 
+
+## Browser Compatibility
+
+The project has been tested for compatibility with the following browsers:
+
+| Browser | Version | Compatibility |
+|---------|---------|---------------|
+| Chrome  | Latest  | Good          |
+| Edge    | Latest  | Good          |
+| Firefox | Latest  | Good          |
+
+- Note: "Latest" refers to the most recent version available at the time of writing.
+
+### Other Supported Browsers
+
+While the project has been primarily tested on the browsers mentioned above, it should also work well on other modern web browsers.
+
+### Known Issues
+
+As of the testing date, there are no known major issues with the listed browsers' latest versions.
+
+### Testing Approach
+
+Compatibility testing was performed by manually verifying the project's functionality on the listed browsers and comparing the results against the expected behavior.
 
 
 
