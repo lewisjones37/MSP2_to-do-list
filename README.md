@@ -214,7 +214,7 @@ A home button is provided identical to the todo list interface to maintain style
 
 The only images used in the whole project are profile images of the reviewers to give the app a personal and dependable feel. 
 
-These images are thimbnail size with a round border that compliment the small size of the review plate. 
+These images are thumbnail size with a round border that compliment the small size of the review plate. 
 
 ### Wireframes
 
@@ -268,7 +268,18 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 
 ## Testing
 
-- ADD TESTING STUFF HERE FOR ALL DEVICES
+- Responsiveness 
+
+The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, tablet and mobile devices.
+
+### Devices 
+
+<details><summary>iPhone 5</summary>
+<img src="/docs/responsiveness/iphone5/Homepage.jpg">
+<img src="/docs/responsiveness/iphone5/2do-interface.jpg">
+<img src="/docs/responsiveness/iphone5/2do-interface-w-list.jpg">
+<img src="/docs/responsiveness/iphone5/reviews.jpg">
+</details>
 
 
 
