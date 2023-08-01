@@ -377,4 +377,8 @@ The performance of each page was measured by using Google lighthouse in chrome d
 <img src="docs/responsiveness/lighthouse/review-lighthouse.png">
 </details>
 
+#### Code Validation 
+
+- add code validation here 
+
 
