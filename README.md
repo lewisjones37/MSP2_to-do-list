@@ -272,7 +272,7 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 
 The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, tablet and mobile devices. Please see below examples of various devices.
 
-### Devices 
+#### Devices 
 
 <details><summary>iPhone 5</summary>
 <img src="docs/responsiveness/iphone5/Homepage.jpg">
@@ -302,6 +302,25 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 <img src="docs/responsiveness/desktop/reviews-desktop.jpg">
 </details>
 
+#### Feature Testing 
+
+- Adding a New Todo: The user can enter a new task into the input field and press Enter to add it to the list. The new task should appear at the bottom of the list.
+
+- Marking as Done: When the user left-clicks on a task, it should be marked as completed. The task text should be crossed out to indicate completion.
+
+- Deleting a Todo: The user can right-click on a task to delete it from the list. The task should be removed without any errors.
+
+- Mobile Swipe Delete: On mobile devices, the user can swipe a task to the left to delete it from the list.
+
+- Responsiveness: The application has been tested on various devices, including desktops, laptops, tablets, and mobile phones, to ensure proper rendering and functionality.
+
+- Get Started Button: The "Get Started" button on the homepage has been tested to ensure that it correctly navigates the user to the main 2'DOS application page.
+
+- Review Buttons: The "Reviews" button on the homepage has been tested to ensure that it correctly navigates the user to the review's page
+
+- Timed Carousel Review Section: The review section with a timed bar consisting of 10 seconds has been tested. The reviews should automatically carousel to the next review after the specified time interval.
+
+- The home button provided on the todo and review page has been tested to ensure when clicked it takes user back to the homepage.
 
 
 
