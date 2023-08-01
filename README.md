@@ -345,7 +345,7 @@ The project has been tested for compatibility with the following browsers:
 | Edge    | Latest  | Good          |
 | Firefox | Latest  | Good          |
 
-- Note: "Latest" refers to the most recent version available at the time of writing.
+Note: "Latest" refers to the most recent version available at the time of writing.
 
 - Other Supported Browsers
 
@@ -359,6 +359,16 @@ As of the testing date, there are no known major issues with the listed browsers
 
 Compatibility testing was performed by manually verifying the project's functionality on the listed browsers and comparing the results against the expected behavior.
 
+#### Ligthouse Testing
 
+<details><summary>Homepage</summary>
+<img src="docs/responsiveness/lighthouse/homepage-lighthouse.png">
+</details>
+<details><summary>Todo List Interface</summary>
+<img src="docs/responsiveness/lighthouse/to-do-lighthouse.png">
+</details>
+<details><summary>Review Page</summary>
+<img src="docs/responsiveness/lighthouse/review-lighthouse.png">
+</details>
 
 
