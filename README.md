@@ -288,5 +288,12 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 <img src="docs/responsiveness/ipad-air/reviews-ipad-air.jpg">
 </details>
 
+<details><summary>Desktop</summary>
+<img src="docs/responsiveness/desktop/homepage-desktop.jpg">
+<img src="docs/responsiveness/desktop/todo-list-desktop.jpg">
+<img src="docs/responsiveness/desktop/todo-list-w-list-desktop.jpg">
+<img src="docs/responsiveness/desktop/reviews-desktop.jpg">
+</details>
+
 
 
