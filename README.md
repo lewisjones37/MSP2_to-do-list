@@ -337,8 +337,6 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 
 #### Browser Compatibility 
 
-## Browser Compatibility
-
 The project has been tested for compatibility with the following browsers:
 
 | Browser | Version | Compatibility |
@@ -349,15 +347,15 @@ The project has been tested for compatibility with the following browsers:
 
 - Note: "Latest" refers to the most recent version available at the time of writing.
 
-### Other Supported Browsers
+- Other Supported Browsers
 
 While the project has been primarily tested on the browsers mentioned above, it should also work well on other modern web browsers.
 
-### Known Issues
+- Known Issues
 
 As of the testing date, there are no known major issues with the listed browsers' latest versions.
 
-### Testing Approach
+- Testing Approach
 
 Compatibility testing was performed by manually verifying the project's functionality on the listed browsers and comparing the results against the expected behavior.
 
