@@ -1,3 +1,5 @@
+<img src="docs/readme-images/readme-header.jpg">
+
 - [User Experience](#user-experience)
   - [Description](#Description)
   - [Target Audience](#target-audience)
