@@ -247,8 +247,9 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 
 1. In the GitHub repository navigate to the Settings tab.
 2. On the left-hand menu select Pages.
-3. For the source select Branch: master.
-4. After the webpage refreshes automatically, you will see a ribbon on the top saying: "Your site is published at ##################################
+3. For the source select Branch: main.
+4. For the folder select root.
+4. Once you click save the website was published at: https://lewisjones37.github.io/MSP2_to-do-list/ 
 
 - You can fork the repository by following these steps:
 
@@ -271,7 +272,7 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 
 The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, tablet and mobile devices. Please see below examples of various devices.
 
-#### Devices 
+### Devices 
 
 <details><summary>iPhone 5</summary>
 <img src="docs/responsiveness/iphone5/Homepage.jpg">
@@ -301,7 +302,7 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 <img src="docs/responsiveness/desktop/reviews-desktop.jpg">
 </details>
 
-#### Feature Testing 
+### Feature Testing 
 
 - Adding a New Todo: The user can enter a new task into the input field and press Enter to add it to the list. The new task should appear at the bottom of the list.
 
@@ -321,7 +322,7 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 
 - The home button provided on the todo and review page has been tested to ensure when clicked it takes user back to the homepage.
 
-#### User Stories Testing 
+### User Stories Testing 
 
 | User Story | Testing |
 |------------|------------|
@@ -335,7 +336,7 @@ The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, ta
 | As a user, I want to have a clear and user-friendly interface for easy task management. | User can navigate the interface smoothly, and the design is intuitive for task management. |
 | As a User, I want to read others' reviews | User can access the review section and read reviews from other users about Emily's 2do's. The review section is clearly visible and accessible. |
 
-#### Browser Compatibility 
+### Browser Compatibility 
 
 The project has been tested for compatibility with the following browsers:
 
@@ -359,11 +360,11 @@ As of the testing date, there are no known major issues with the listed browsers
 
 Compatibility testing was performed by manually verifying the project's functionality on the listed browsers and comparing the results against the expected behavior.
 
-#### Bugs 
+### Bugs 
 
 - Add bug info here
 
-#### Performance 
+### Performance 
 
 The performance of each page was measured by using Google lighthouse in chrome developer tools.
 
@@ -377,12 +378,12 @@ The performance of each page was measured by using Google lighthouse in chrome d
 <img src="docs/lighthouse/review-lighthouse.png">
 </details>
 
-#### Code Validation 
+### Code Validation 
 
 - add code validation here 
 
-#### Acessibility
+### Acessibility
 
-#### Credits
+### Credits
 
 
