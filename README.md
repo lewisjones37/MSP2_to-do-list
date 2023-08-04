@@ -382,7 +382,21 @@ The performance of each page was measured by using Google lighthouse in chrome d
 
 ### Code Validation 
 
-- add code validation here 
+- I used https://validator.w3.org/ to validate my code.
+
+<details><summary>Homepage</summary>
+<img src="docs/validation-images/homepage-validation.jpg">
+
+- NOTE: Although there appears to be a warning for an empty heading, my javascript does produce a heading with an animation so this is unrecognised by the validator.
+</details>
+
+<details><summary>Todo list interface</summary>
+<img src="docs/validation-images/todo-list-validation.jpg">
+</details>
+
+<details><summary>Review page</summary>
+<img src="docs/validation-images/reviews-validation.jpg">
+</details>
 
 ### Acessibility
 
