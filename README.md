@@ -382,6 +382,8 @@ The performance of each page was measured by using Google lighthouse in chrome d
 
 ### Code Validation 
 
+#### HTML
+
 - I used https://validator.w3.org/ to validate my code.
 
 <details><summary>Homepage</summary>
@@ -397,6 +399,24 @@ The performance of each page was measured by using Google lighthouse in chrome d
 <details><summary>Review page</summary>
 <img src="docs/validation-images/reviews-validation.jpg">
 </details>
+
+#### CSS
+
+#### Javascript 
+
+<details><summary>Homepage</summary>
+<img src="docs/validation-images/homepage-js-validation.jpg">
+</details>
+
+<details><summary>Todo list interface</summary>
+<img src="docs/validation-images/todo-interface-js-validation.jpg">
+</details>
+
+<details><summary>Review page</summary>
+<img src="docs/validation-images/reviews-js-validation.jpg">
+</details>
+
+
 
 ### Acessibility
 
