@@ -1,8 +1,7 @@
-const testimonialsContainer =document.querySelector('.testimonials-container')
-const testimonial = document.querySelector('.testimonial')
-const userImage = document.querySelector('.user-image')
-const username = document.querySelector('.username')
-const role = document.querySelector('.role')
+const testimonial = document.querySelector('.testimonial');
+const userImage = document.querySelector('.user-image');
+const username = document.querySelector('.username');
+const role = document.querySelector('.role');
 
 const testimonials = [
     {
@@ -23,25 +22,25 @@ const testimonials = [
         photo: 'assets/images/ioan.jpg',
         text: "Seamless experience, responsive design. A must-have for task management efficiency.",
     },
-]
+];
 
-let idx = 1
+let idx = 1;
 
 function updateTestimonial() {
-    const { name, position, photo, text } = testimonials[idx]
+    const { name, position, photo, text } = testimonials[idx];
 
-    testimonial.innerHTML = text
-    userImage.src = photo
-    username.innerHTML = name
-    role.innerHTML = position
+    testimonial.innerHTML = text;
+    userImage.src = photo;
+    username.innerHTML = name;
+    role.innerHTML = position;
 
-    idx++
+    idx++;
 
     if(idx > testimonials.length - 1){
-        idx = 0
+        idx = 0;
 
     }
 
 }
 
-setInterval(updateTestimonial, 10000)
+setInterval(updateTestimonial, 10000);
