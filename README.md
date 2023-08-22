@@ -404,6 +404,8 @@ The performance of each page was measured by using Google lighthouse in chrome d
 
 #### Javascript 
 
+- I used https://jshint.com to validate my code.
+
 <details><summary>Homepage</summary>
 <img src="docs/validation-images/homepage-js-validation.jpg">
 </details>
