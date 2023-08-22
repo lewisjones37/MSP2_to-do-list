@@ -272,7 +272,7 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 
 ### Responsiveness 
 
-The Website i fully responsive across all screen sizes. e.g. Desktop, laptop, tablet and mobile devices. Please see below examples of various devices.
+The Website is fully responsive across all screen sizes. e.g. Desktop, laptop, tablet and mobile devices. Please see below examples of various devices.
 
 ### Devices 
 
