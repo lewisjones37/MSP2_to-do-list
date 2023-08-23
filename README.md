@@ -217,7 +217,7 @@ The only images used in the whole project are profile images of the reviewers to
 
 These images are thumbnail size with a round border that compliment the small size of the review plate. 
 
-<img src="docs/readme-images/review-images.jpg>
+<img src="docs/readme-images/review-images.jpg">
 
 ### Wireframes
 
