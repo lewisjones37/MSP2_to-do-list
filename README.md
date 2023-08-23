@@ -438,7 +438,22 @@ The performance of each page was measured by using Google lighthouse in chrome d
 
 
 
-### Acessibility
+### Accessibility
+
+- I used https://wave.webaim.org/ to test my code.
+
+<details><summary>Homepage</summary>
+<img src="docs/accessability-images/homepage-wave.jpg">
+</details>
+
+<details><summary>Todo list interface</summary>
+<img src="docs/accessability-images/todo-list-interface-wave.jpg">
+</details>
+
+<details><summary>Review page</summary>
+<img src="docs/accessability-images/reviews-wave.jpg">
+</details>
+
 
 ### Credits
 
