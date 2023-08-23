@@ -402,6 +402,24 @@ The performance of each page was measured by using Google lighthouse in chrome d
 
 #### CSS
 
+<details><summary>Homepage</summary>
+<img src="docs/validation-images/homepage-css-validation.jpg">
+</details>
+
+<details><summary>Todo list interface</summary>
+<img src="docs/validation-images/todo-interface-css-validation.jpg">
+</details>
+
+<details><summary>Review page</summary>
+<img src="docs/validation-images/reviews-css-validation.jpg">
+</details>
+<br>
+- NOTE: Each test displays a warning which is shown below. This does not affect the code and the CSS is without error.
+
+<details><summary>Warning</summary>
+<img src="docs/validation-images/warning-css.jpg">
+</details>
+
 #### Javascript 
 
 - I used https://jshint.com to validate my code.
