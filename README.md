@@ -147,7 +147,7 @@ The to-do list interface exudes simplicity, with a soothing color scheme and int
 
 ### Colour Scheme
 
-- The color scheme for Emily's 2do's had to be updated to avoid contrast errors on the Wave testing platform. The final result is a light blue background on both the homepage and the review page, which promotes a vibrant, modern, and calm ambiance. This is accompanied by a darker grey for the buttons and the review panel, which instantly draws the end user's attention. More importantly, this allows ease of use for end users who experience visual impairment.
+- The color scheme for Emily's 2do's had to be updated to avoid contrast errors on the Wave testing platform. The final result is a light blue background with a gradient into a lighter white on both the homepage and the review page. It promotes a vibrant, modern, and calm ambiance. This is accompanied by a darker grey for the buttons and the review panel, which instantly draws the end user's attention. More importantly, this allows ease of use for end users who experience visual impairment.
 
 - An ever so slightly different design has been applied to the to-do list interface. An off-white background, accompanied by a grey watermarked title, is intentionally subtle so as not to distract the end user from the page's main purpose: the list. The input form is instantly highlighted by a thin blue box that invites the user.
 
