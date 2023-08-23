@@ -240,6 +240,8 @@ In future updates, I intend to incorporate a categories feature in "Emily's 2do'
 - GitHub 
 - Gitpod 
 - W3Schools 
+- Stackoverflow
+- Easy Tutorials
 
 ## Deployment 
 
