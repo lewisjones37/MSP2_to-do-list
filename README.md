@@ -30,7 +30,7 @@
 
 ### Description
 
-Emilys 2dos is a page that allows users to create and manage a list of tasks and projects. The main goal of this project is to provide users with an easy way to keep track of their tasks and projects, with the added functionalies of marking as done and deleting tasks when completed. And peice of mind the items will remain after the browser is refreshed.
+Emilys 2dos is a page that allows users to create and manage a list of tasks and projects. The main goal of this project is to provide users with an easy way to keep track of their tasks and projects, with the added functionalities of marking as done and deleting tasks when completed. And peice of mind the items will remain after the browser is refreshed.
 
 ### Target Audience 
 
@@ -49,8 +49,6 @@ Socially Engaged Individuals: People involved in various social activities, comm
 Creatives and Artists: Writers, designers, artists, and other creative professionals can use this to-do list to organize their creative projects and track their progress.
 
 Travelers and Event Planners: Individuals planning trips or organizing events can keep track of their tasks and arrangements with this tool.
-
-General Organization Enthusiasts: Anyone who enjoys staying organized and productive can find value in using this to-do list to manage their daily activities.
 
 Emily's 2Do's aims to provide a user-friendly and accessible solution for individuals with diverse lifestyles and busy schedules. Whether it's managing work-related tasks, academic commitments, personal projects, or social engagements, this to-do list offers an effective way to stay on top of various responsibilities without the worry of tasks disappearing, thanks to the local storage feature.
 
@@ -95,27 +93,27 @@ Emily's 2Do's aims to provide a user-friendly and accessible solution for indivi
 
 #### First Time Visitor Goals
 
-These first-time visitor goals aim to highlight the key features and benefits that new users can expect when using "2Day 2Morrow 2Do". They are designed to give newcomers a quick understanding of what makes your project valuable and why they should consider using it to organise their tasks and projects effectively.
+These first-time visitor goals aim to highlight the key features and benefits that new users can expect when using Emily's todos. They are designed to give newcomers a quick understanding of what makes your project valuable and why they should consider using it to organise their tasks and projects effectively.
 
 - Effortless Task Entry: Quickly add your tasks using the provided text area, so you can get organized without any hassle.
 
-- Real-Time Updates: See your to-do list update in real-time as you add or complete tasks, ensuring you always have an up-to-date view of your tasks.
+- Real time Updates: See your to-do list update in real time as you add or complete tasks, ensuring you always have an up-to-date view of your tasks.
 
-- Simple Task Completion: Easily mark tasks as completed with a simple left-click, allowing you to track your progress and stay on top of your to-dos.
+- Simple Task Completion: Easily mark tasks as completed with a simple left click, allowing you to track your progress and stay on top of your to-dos.
 
-- Seamless Task Deletion: Delete completed or unnecessary tasks with a right-click, making task management a breeze.
+- Seamless Task Deletion: Delete completed or unnecessary tasks with a right click, making task management a breeze.
 
 - Never Lose Your Tasks: Rest assured knowing that your to-do list is automatically saved to your local storage, so your tasks will be there even if you close the browser or refresh the page.
 
-- Stay Organized Anywhere: Access your to-do list from any device with an internet connection, keeping your tasks at your fingertips whether you're at work, home, or on the go.
+- Stay Organised Anywhere: Access your to-do list from any device with an internet connection, keeping your tasks at your fingertips whether you're at work, home, or on the go.
 
-- Visually Appealing Interface: Enjoy a visually appealing design with a watermark-styled logo, enhancing your experience while managing your tasks.
+- Visually Appealing Interface: Enjoy a visually appealing design with a watermark styled logo, enhancing your experience while managing your tasks.
 
-- User-Friendly and Intuitive: Navigate the application effortlessly with its user-friendly interface, ensuring a smooth and enjoyable task management experience from the moment you start.
+- User friendly and Intuitive: Navigate the application effortlessly with its user friendly interface, ensuring a smooth and enjoyable task management experience from the moment you start.
 
-- Discovering User Satisfaction: As a first-time visitor to Emily's 2do's, users want to explore the reviews section to discover the experiences of other users. They aim to assess the overall user satisfaction with the to-do list application and gauge its effectiveness in helping manage tasks and projects efficiently.
+- Discovering User Satisfaction: As a first time visitor to Emily's 2do's, users want to explore the reviews section to discover the experiences of other users. They aim to assess the overall user satisfaction with the to do list application and gauge its effectiveness in helping manage tasks and projects efficiently.
 
-- Validating App Reliability: First-time visitors seek reassurance about the reliability and credibility of Emily's 2do's. They expect to find genuine user reviews and testimonials that demonstrate the app's utility, ease of use, and positive impact on task organization. By reading reviews, they can feel more confident in trying out the application themselves.
+- Validating App Reliability: First time visitors seek reassurance about the reliability and credibility of Emily's 2do's. They expect to find genuine user reviews that demonstrate the app's utility, ease of use, and positive impact on task organisation. By reading reviews, they can feel more confident in trying out the application themselves.
 
 #### Returning Visitor Goals
 
@@ -123,11 +121,11 @@ These returning visitor goals reinforce the positive experience and benefits tha
 
 - Efficient Task Management: Continue to experience the convenience of efficient task management, enabling you to stay organized and focused in your busy work or social life.
 
-- Seamless Task Updates: Enjoy the seamless updates to your to-do list as you add or complete tasks, ensuring your task list is always up-to-date and reflects your progress.
+- Seamless Task Updates: Enjoy the seamless updates to your to-do list as you add or complete tasks, ensuring your task list is always up to date and reflects your progress.
 
-- Streamlined Task Completion: Effortlessly mark tasks as completed with a simple left-click, making it easy to keep track of your accomplishments and outstanding tasks.
+- Streamlined Task Completion: Effortlessly mark tasks as completed with a simple left click, making it easy to keep track of your accomplishments and outstanding tasks.
 
-- Swift Task Deletion: Continue to remove completed or unnecessary tasks with a right-click, maintaining a clutter-free and organized task list.
+- Swift Task Deletion: Continue to remove completed or unnecessary tasks with a right click, maintaining a clutter free and organised task list.
 
 - Persistent Task Storage: Rest assured that your to-do list remains intact, thanks to automatic local storage, allowing you to access your tasks whenever you return to the application.
 
@@ -135,15 +133,13 @@ These returning visitor goals reinforce the positive experience and benefits tha
 
 - Consistently Pleasant Interface: Enjoy the visually appealing design and watermark-styled logo, providing a consistent and pleasant experience as you manage your tasks.
 
-- Familiar User Experience: Continue to navigate the application effortlessly with its user-friendly interface, making task management an enjoyable and familiar process.
+- Familiar User Experience: Continue to navigate the application effortlessly with its user friendly interface, making task management an enjoyable and familiar process.
 
-- Discover New Features: Explore any new features or updates that may have been added since your last visit, enhancing your task management experience further.
-
-- Share and Spread the Productivity: Consider sharing "2Day 2Morrow 2Do" with friends, family, or colleagues, so they can also benefit from efficient task organization.
+- Share and Spread the Productivity: Consider sharing Emily's todos with friends, family, or colleagues, so they can also benefit from efficient task organization.
 
 
 ## Design
-- The design of the website for "Emily's 2do's" follows a minimalist approach, prioritising user focus and ease of navigation. The multi-page layout comprises a homepage, a review page, and a streamlined to-do list interface. The clean and uncluttered design places emphasis on the main elements, creating a visually soothing experience.
+The design of the website for "Emily's 2do's" follows a minimalist approach, prioritising user focus and ease of navigation. The multi page layout comprises a homepage, a review page, and a streamlined to-do list interface. The clean and uncluttered design places emphasis on the main elements.
 
 The homepage greets visitors with the page's name and a concise call to action, guiding them seamlessly to explore the app's features. The review page showcases genuine user feedback, reinforcing the app's reliability and building trust among potential users.
 
