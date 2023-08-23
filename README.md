@@ -364,7 +364,7 @@ Compatibility testing was performed by manually verifying the project's function
 
 ### Bugs 
 
-- Add bug info here
+- I faced a challenge where I could not get the swipe to delete function for mobiles to work, in order to fix this I utilised stack overflow and researched what other develoeprs have done in this situation. 
 
 ### Performance 
 
