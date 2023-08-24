@@ -518,7 +518,7 @@ I would like to take the time to thank:
 
 My Code institute Cohort Facilitator Iris Smok for her advice and guidance.
 
-The slack community for providin around the clock support.
+The slack community for providing around the clock support.
 
-My girlfrined Emily Edwards for providing support and motivation, and also being so busy providing me with an idea of a todolist.
+My girlfrined Emily Edwards for providing support and motivation, and also being so busy providing me with an idea of a todo list.
 
