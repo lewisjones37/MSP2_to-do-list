@@ -396,8 +396,11 @@ Compatibility testing was performed by manually verifying the project's function
 
 ### Bugs 
 
-Problem: Could not get the swipe to delete function for mobiles to work. 
+- Problem: Could not get the swipe to delete function for mobiles to work. 
 Solution: Utilised stack overflow and researched what other develoeprs have done in this situation. 
+
+- Problem: Taks list was overflowing the top of the page.
+Solution: Added a max height and overflow auto to the todo class. This stopped list going too high and added scroll bar.
 
 ### Performance 
 
