@@ -313,10 +313,11 @@ The Website is fully responsive across all screen sizes. e.g. Desktop, laptop, t
 </details>
 
 <details><summary>iPhone 12 Pro</summary>
-<img src="docs/responsiveness/iphone-12-pro/homepage-iphone-12-pro.jpg">
-<img src="docs/responsiveness/iphone-12-pro/to-do-list-iphone-12-pro.jpg">
-<img src="docs/responsiveness/iphone-12-pro/iphone-12-pro-w-list.jpg">
-<img src="docs/responsiveness/iphone-12-pro/reviews-iphone-12-pro.jpg">
+<img src="docs/responsiveness/iphone-12-pro/homepage-iphone12-new.jpg">
+<img src="docs/responsiveness/iphone-12-pro/todo-items-new-iphone12.jpg">
+<img src="docs/responsiveness/iphone-12-pro/todo-witems-iphone12-new.jpg">
+<img src="docs/responsiveness/iphone-12-pro/reviews-new-iphone12.jpg">
+<img src="docs/responsiveness/iphone-12-pro/404-iphone-12.jpg>
 </details>
 
 <details><summary>iPad Air</summary>
