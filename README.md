@@ -221,6 +221,30 @@ These images are thumbnail size with a round border that compliment the small si
 
 ### Wireframes
 
+<details><summary>iPhone</summary>
+<img src="docs/wireframes/iphone/homepage-mobile.jpg">
+<img src="docs/wireframes/iphone/todo-mobile.jpg">
+<img src="docs/wireframes/iphone/todo-w-items-mobile.jpg">
+<img src="docs/wireframes/iphone/review-mobile.jpg">
+<img src="docs/wireframes/iphone/error-404-iphone.jpg">
+</details>
+
+<details><summary>iPad</summary>
+<img src="docs/wireframes/ipad/homepage-ipad.jpg">
+<img src="docs/wireframes/ipad/todos-ipad.jpg">
+<img src="docs/wireframes/ipad/todos-w-list-ipad.jpg">
+<img src="docs/wireframes/ipad/reviews-ipad.jpg">
+<img src="docs/wireframes/ipad/error-404-ipad.jpg">
+</details>
+
+<details><summary>Desktop</summary>
+<img src="docs/wireframes/desktop/homepage-desktop.jpg">
+<img src="docs/wireframes/desktop/todo-desktop.jpg">
+<img src="docs/wireframes/desktop/todo-w-list-desktop.jpg">
+<img src="docs/wireframes/desktop/reviews-desktop.jpg">
+<img src="docs/wireframes/desktop/error-404-desktop.jpg">
+</details>
+
 ### Future Implementations
 
 In future updates, I intend to incorporate a categories feature in "Emily's 2do's" to enhance task organisation. This addition will enable users to group their to-do items based on different project types, work, personal tasks, or any customised categories they prefer. By introducing categories, users can streamline their task management process, improving efficiency and clarity. This future implementation aims to provide a more comprehensive and customisable experience, empowering users to stay organised and focused on their priorities effectively.
