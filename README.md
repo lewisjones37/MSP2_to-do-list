@@ -321,17 +321,19 @@ The Website is fully responsive across all screen sizes. e.g. Desktop, laptop, t
 </details>
 
 <details><summary>iPad Air</summary>
-<img src="docs/responsiveness/ipad-air/homepage-ipad-air.jpg">
-<img src="docs/responsiveness/ipad-air/todo-list-ipad-air.jpg">
-<img src="docs/responsiveness/ipad-air/todo-list-w-list-ipad-air.jpg">
-<img src="docs/responsiveness/ipad-air/reviews-ipad-air.jpg">
+<img src="docs/responsiveness/ipad-air/homepage-new-ipad.jpg">
+<img src="docs/responsiveness/ipad-air/2do-new-ipad.jpg">
+<img src="docs/responsiveness/ipad-air/2do-w-items-new-ipad.jpg">
+<img src="docs/responsiveness/ipad-air/reviews-ipad-new.jpg">
+<img src="docs/responsiveness/ipad-air/404-ipad-air.jpg">
 </details>
 
 <details><summary>Desktop</summary>
-<img src="docs/responsiveness/desktop/homepage-desktop.jpg">
-<img src="docs/responsiveness/desktop/todo-list-desktop.jpg">
-<img src="docs/responsiveness/desktop/todo-list-w-list-desktop.jpg">
-<img src="docs/responsiveness/desktop/reviews-desktop.jpg">
+<img src="docs/responsiveness/desktop/homepage-new-desktop.jpg">
+<img src="docs/responsiveness/desktop/2do-new-desktop.jpg">
+<img src="docs/responsiveness/desktop/2d0-w-items-new-desktop.jpg">
+<img src="docs/responsiveness/desktop/reviews-new-desktop.jpg">
+<img src="docs/responsiveness/desktop/404-desktop.jpg">
 </details>
 
 ### Feature Testing 
