@@ -317,7 +317,7 @@ The Website is fully responsive across all screen sizes. e.g. Desktop, laptop, t
 <img src="docs/responsiveness/iphone-12-pro/todo-items-new-iphone12.jpg">
 <img src="docs/responsiveness/iphone-12-pro/todo-witems-iphone12-new.jpg">
 <img src="docs/responsiveness/iphone-12-pro/reviews-new-iphone12.jpg">
-<img src="docs/responsiveness/iphone-12-pro/404-iphone-12.jpg>
+<img src="docs/responsiveness/iphone-12-pro/404-iphone-12.jpg">
 </details>
 
 <details><summary>iPad Air</summary>
