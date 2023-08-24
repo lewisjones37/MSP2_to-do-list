@@ -436,6 +436,10 @@ The performance of each page was measured by using Google lighthouse in chrome d
 <img src="docs/validation-images/reviews-validation.jpg">
 </details>
 
+<details><summary>404 page</summary>
+<img src="docs/validation-images/404-html-valid.jpg">
+</details>
+
 #### CSS
 
 <details><summary>Homepage</summary>
