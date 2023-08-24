@@ -305,10 +305,11 @@ The Website is fully responsive across all screen sizes. e.g. Desktop, laptop, t
 ### Devices 
 
 <details><summary>iPhone 5</summary>
-<img src="docs/responsiveness/iphone5/Homepage.jpg">
-<img src="docs/responsiveness/iphone5/2do-interface.jpg">
-<img src="docs/responsiveness/iphone5/2do-interface-w-list.jpg">
-<img src="docs/responsiveness/iphone5/reviews.jpg">
+<img src="docs/responsiveness/iphone5/homepage-iphone5-new.jpg">
+<img src="docs/responsiveness/iphone5/2do-iphone5-new.jpg">
+<img src="docs/responsiveness/iphone5/todo-witems-iphone5-new.jpg">
+<img src="docs/responsiveness/iphone5/reviews-iphone5-new.jpg">
+<img src="docs/responsiveness/iphone5/2do-404.jpg">
 </details>
 
 <details><summary>iPhone 12 Pro</summary>
